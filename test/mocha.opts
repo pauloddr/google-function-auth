@@ -1,0 +1,4 @@
+--colors
+--recursive
+--check-leaks
+--require=./config/mocha.js
